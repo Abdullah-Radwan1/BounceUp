@@ -70,7 +70,7 @@ export default function Navbar() {
             </a>
           </div>
 
-          <div className="hidden md:flex items-center space-x-8 rtl:space-x-reverse">
+          <div className="hidden md:flex items-center  gap-10 rtl:space-x-reverse">
             {navLinks.map((link) => (
               <a
                 key={link.name}

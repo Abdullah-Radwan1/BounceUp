@@ -11,7 +11,7 @@ export default async function Hero() {
   return (
     <section
       id="home"
-      className="relative min-h-[90vh] flex items-center justify-center overflow-hidden bg-background"
+      className="relative my-20 flex items-center justify-center overflow-hidden bg-background"
     >
       {/* Background decoration */}
       <div className="absolute inset-0 z-0">

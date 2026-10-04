@@ -109,7 +109,9 @@
     ]
   },
   "cta": {
-    "title": "Let's Build a Better Business System.",
+    "title": "Let's Build a ",
+    "star": "Better",
+    "title_2": "Business System.",
     "description": "Whether you need an ERP, CRM, custom software, automation, or an integrated business platform, let's discuss your requirements.",
     "button": "Start a Conversation"
   },
@@ -122,7 +124,16 @@
       "service": "Service of Interest",
       "message": "Message",
       "submit": "Send Message",
-      "success": "Message sent successfully!"
+      "sending": "Sending...",
+      "success": "Message sent successfully!",
+      "errors": {
+        "nameRequired": "Name is required.",
+        "emailRequired": "Email is required.",
+        "emailInvalid": "Please enter a valid email address.",
+        "serviceRequired": "Please select a service.",
+        "messageRequired": "Message is required.",
+        "tooLong": "This field exceeds the maximum length."
+      }
     }
   },
   "footer": {
