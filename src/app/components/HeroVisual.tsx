@@ -1,13 +1,7 @@
 "use client";
 
 import { motion } from "framer-motion";
-import {
-  Settings,
-  Database,
-  Code,
-  BarChart,
-  Server,
-} from "lucide-react";
+import { Settings, Database, Code, BarChart, Server } from "lucide-react";
 
 export default function HeroVisual() {
   return (
@@ -15,7 +9,7 @@ export default function HeroVisual() {
       initial={{ opacity: 0, scale: 0.9 }}
       animate={{ opacity: 1, scale: 1 }}
       transition={{ duration: 0.8, delay: 0.2 }}
-      className="relative hidden lg:block h-[500px]"
+      className="relative hidden lg:block h-125"
     >
       {/* Animated System Nodes */}
       <div className="absolute inset-0 flex items-center justify-center">

@@ -65,7 +65,13 @@ export default async function EcosystemComponent() {
           variants={staggerContainer}
           className="bg-card rounded-3xl justify-center flex items-center"
         >
-          <Image src="/Bounce.jpg" width={350} height={350} alt="Bounce_logo" />
+          <Image
+            loading="eager"
+            src="/Bounce.jpg"
+            width={350}
+            height={350}
+            alt="Bounce_logo"
+          />
         </AnimatedDiv>
       </div>
     </section>
