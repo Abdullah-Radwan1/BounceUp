@@ -1,0 +1,136 @@
+{
+  "metadata": {
+    "title": "BounceUp",
+    "description": "BounceUp Platform - Business Systems & Digital Infrastructure"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "process": "Process",
+    "contact": "Contact",
+    "cta": "Let's Work Together"
+  },
+  "hero": {
+    "star1": "Business ",
+    "title": "Systems Built for ",
+    "star2": "Growth.",
+    "description": "BounceUp designs, integrates, and automates business systems that help companies streamline operations, connect workflows, and build scalable digital infrastructure.",
+    "primaryCta": "Let's Work Together",
+    "secondaryCta": "Explore Our Services"
+  },
+  "about": {
+    "tech": "Technology",
+    "title": " That Understands Your ",
+    "business": "Business",
+    "description": "BounceUp combines business requirements analysis, system design, software development, integration, and automation to create scalable and maintainable solutions. We bridge the gap between business strategy and technological execution."
+  },
+  "services": {
+    "title": "Our Services",
+    "items": {
+      "systems": {
+        "title": "Business Systems",
+        "description": "Requirements analysis, workflow design, and system architecture tailored for your business."
+      },
+      "erp": {
+        "title": "ERP & Odoo",
+        "description": "Comprehensive implementation, configuration, and customization of Odoo and other ERP solutions."
+      },
+      "crm": {
+        "title": "CRM",
+        "description": "CRM setup, sales pipelines, customer data management, and automation to boost sales."
+      },
+      "web": {
+        "title": "Websites & Web Applications",
+        "description": "Business websites, customer portals, and internal web platforms that scale."
+      },
+      "custom": {
+        "title": "Custom Software",
+        "description": "Scalable platforms, APIs, databases, and internal tools built to your exact specifications."
+      },
+      "automation": {
+        "title": "Automation & Integration",
+        "description": "Workflow automation, API integrations, and AI implementation to save time and reduce errors."
+      }
+    }
+  },
+  "process": {
+    "title": "Our Process",
+    "steps": {
+      "1": {
+        "title": "Understand",
+        "description": "We analyze your business requirements, workflows, and current bottlenecks."
+      },
+      "2": {
+        "title": "Design",
+        "description": "We architect a tailored solution and system design that aligns with your goals."
+      },
+      "3": {
+        "title": "Build",
+        "description": "We develop, integrate, and configure the systems with precision."
+      },
+      "4": {
+        "title": "Improve",
+        "description": "We continually optimize, automate, and scale your technology infrastructure."
+      }
+    }
+  },
+  "ecosystem": {
+    "title": "Technology Ecosystem",
+    "items": [
+      "Odoo",
+      "CRM",
+      "PostgreSQL",
+      "MongoDB",
+      "Node.js",
+      "TypeScript",
+      "APIs",
+      "Automation",
+      "AI Integration"
+    ]
+  },
+  "whyUs": {
+    "title": "Why BounceUp",
+    "items": {
+      "business": "Business-First Approach",
+      "integrated": "Integrated Solutions",
+      "scalable": "Scalable Architecture",
+      "practical": "Practical Technology"
+    }
+  },
+  "comingSoon": {
+    "title": "More Solutions. Coming Soon.",
+    "items": [
+      "Digital Marketing",
+      "Marketing Automation",
+      "SEO",
+      "Analytics",
+      "Growth Solutions"
+    ]
+  },
+  "cta": {
+    "title": "Let's Build a Better Business System.",
+    "description": "Whether you need an ERP, CRM, custom software, automation, or an integrated business platform, let's discuss your requirements.",
+    "button": "Start a Conversation"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "company": "Company",
+      "service": "Service of Interest",
+      "message": "Message",
+      "submit": "Send Message",
+      "success": "Message sent successfully!"
+    }
+  },
+  "footer": {
+    "tagline": "Business Systems & Automation",
+    "rights": "© 2026 BounceUp. All rights reserved."
+  },
+  "metadata": {
+    "title": "BounceUp",
+    "description": "Business Systems & Automation"
+  }
+}
